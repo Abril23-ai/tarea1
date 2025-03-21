@@ -1,15 +1,11 @@
-function Saludar()
-{
-    alert("No saben programar");
-}
 
 function Saludar2()
 {
-    alert("mama huevo");
+    alert("Intentelo nuevamente");
 }
 
 function saludar() {
-    alert("Hola mundo");
+    alert("Correo Incorrecto");
 }
 
 document.addEventListener("DOMContentLoaded", function() {
