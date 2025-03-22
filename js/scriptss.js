@@ -5,7 +5,7 @@ function Saludar2()
 }
 
 function saludar() {
-    alert("Correo Incorrecto");
+    alert("Contraseña Incorrecta");
 }
 
 document.addEventListener("DOMContentLoaded", function() {
